@@ -8,6 +8,9 @@
     <string name="pet_gorilla">고릴라</string>
     <string name="pet_hen">닭</string>
     <string name="pet_horse">말</string>
+    <string name="pet_giraffe">기린</string>
+    <string name="pet_turtle">거북이</string>
+    <string name="pet_whale">고래</string>
     <string name="pet_monkey">원숭이</string>
     <string name="pet_pandabear">판다</string>
     <string name="pet_penguin">펭귄</string>
